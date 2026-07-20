@@ -1,0 +1,21 @@
+# Tender Engine — Python 3.11 (conda env "EY").
+# Deliberately NO torch / NO langchain: both the LLM and the embeddings run via
+# the HuggingFace Inference API, which avoids the version churn that corrupted
+# the previous environment.
+
+# PDF extraction (text-layer, no OCR)
+pymupdf
+pdfplumber
+
+# LLM + embeddings (HuggingFace Inference API) + .env loading
+huggingface_hub
+python-dotenv
+
+# Vector store + math
+numpy
+faiss-cpu
+
+# Web app (FastAPI backend + static UI)
+fastapi
+uvicorn[standard]
+python-multipart

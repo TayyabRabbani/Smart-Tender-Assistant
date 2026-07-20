@@ -1,0 +1,92 @@
+[
+  {
+    "Product_Type": "FPGA Development and Evaluation Board",
+    "OEM": "AMD Xilinx",
+    "Model": "ZC706",
+    "Specs": {
+      "Processor": "Dual A9 (ARM Cortex-A9)",
+      "Main Memory": "DDR3, 1GB, 1066 MT/s, soldered",
+      "# of logic cells": "350K",
+      "# of DSP SLICE": "900",
+      "# of MMCM": "8",
+      "Device": "Zynq-7000 XC7Z045",
+      "Warranty": "12 months",
+      "Certification": "CE, RoHS"
+    }
+  },
+  {
+    "Product_Type": "FPGA Development and Evaluation Board",
+    "OEM": "AMD Xilinx",
+    "Model": "ZC702",
+    "Specs": {
+      "Processor": "Dual A9 (ARM Cortex-A9)",
+      "Main Memory": "DDR3, 1GB, 1066 MT/s, soldered",
+      "# of logic cells": "85K",
+      "# of DSP SLICE": "220",
+      "# of MMCM": "4",
+      "Device": "Zynq-7000 XC7Z020",
+      "Warranty": "12 months",
+      "Certification": "CE, RoHS"
+    }
+  },
+  {
+    "Product_Type": "FPGA Development and Evaluation Board",
+    "OEM": "Digilent",
+    "Model": "ZedBoard",
+    "Specs": {
+      "Processor": "Dual A9 (ARM Cortex-A9)",
+      "Main Memory": "DDR3, 512MB, soldered",
+      "# of logic cells": "85K",
+      "# of DSP SLICE": "220",
+      "# of MMCM": "4",
+      "Device": "Zynq-7000 XC7Z020",
+      "Warranty": "6 months",
+      "Certification": "CE"
+    }
+  },
+  {
+    "Product_Type": "FPGA Development and Evaluation Board",
+    "OEM": "Trenz Electronic",
+    "Model": "UltraZed-EG TE0820",
+    "Specs": {
+      "Processor": "Quad A53 (ARM Cortex-A53)",
+      "Main Memory": "DDR4, 2GB, soldered",
+      "# of logic cells": "154K",
+      "# of DSP SLICE": "360",
+      "# of MMCM": "4",
+      "Device": "Zynq UltraScale+ ZU3EG",
+      "Warranty": "12 months",
+      "Certification": "CE, RoHS"
+    }
+  },
+  {
+    "Product_Type": "FPGA System-on-Module Kit",
+    "OEM": "Terasic",
+    "Model": "DE10-Nano",
+    "Specs": {
+      "Processor": "Dual A9 (ARM Cortex-A9)",
+      "Main Memory": "DDR3, 1GB, soldered",
+      "# of logic cells": "110K (LE)",
+      "# of DSP SLICE": "112",
+      "# of MMCM": "6 (PLL)",
+      "Device": "Intel Cyclone V SoC 5CSEBA6",
+      "Warranty": "6 months",
+      "Certification": "CE"
+    }
+  },
+  {
+    "Product_Type": "FPGA Evaluation Board",
+    "OEM": "AMD Xilinx",
+    "Model": "KC705",
+    "Specs": {
+      "Processor": "None (no hard processor)",
+      "Main Memory": "DDR3, 1GB SODIMM",
+      "# of logic cells": "326K",
+      "# of DSP SLICE": "840",
+      "# of MMCM": "10",
+      "Device": "Kintex-7 XC7K325T",
+      "Warranty": "12 months",
+      "Certification": "CE, RoHS"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+# ---- Secrets ----
+.env
+*.env
+!.env.example
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Generated pipeline artifacts ----
+# The vector index and per-tender stage files are rebuilt from source on run.
+data/output/*
+!data/output/.gitkeep
+
+# ---- Editors / OS / tooling ----
+.vscode/
+.idea/
+.claude/
+.jbeval/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ---- UI backup (local only) ----
+ui/index.backup.html

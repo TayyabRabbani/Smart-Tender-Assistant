@@ -1,0 +1,250 @@
+[
+  {
+    "Product_Type": "Salt Bath Pit Type Furnace",
+    "OEM": "InductoTherm",
+    "Model": "SBP-1000",
+    "Specs": {
+      "Max_Temp": "1300°C",
+      "Capacity": "500 kg",
+      "Controller": "PID Auto-Tune Digital",
+      "Power_Supply": "3 Phase, 440V AC",
+      "Certification": "ISO 9001, CE"
+    }
+  },
+  {
+    "Product_Type": "Salt Bath Pit Type Furnace",
+    "OEM": "ThermTech Engineering",
+    "Model": "TT-SBF-750",
+    "Specs": {
+      "Max_Temp": "1200°C",
+      "Capacity": "400 kg",
+      "Controller": "Digital Microprocessor",
+      "Power_Supply": "415V, 50Hz",
+      "Certification": "ISO 9001"
+    }
+  },
+  {
+    "Product_Type": "Benchtop Thermocouple Calibration Furnace",
+    "OEM": "Fluke Calibration",
+    "Model": "9142-X",
+    "Specs": {
+      "Temp_Range": "35°C to 650°C",
+      "Stability": "±0.01°C",
+      "Resolution": "0.001°C",
+      "Certification": "ISO 17025"
+    }
+  },
+  {
+    "Product_Type": "Tubular Furnace",
+    "OEM": "Carbolite Gero",
+    "Model": "TF-1200",
+    "Specs": {
+      "Max_Temp": "1200°C",
+      "Tube_Diameter": "60 mm",
+      "Heating_Zones": "1",
+      "Certification": "ISO 9001"
+    }
+  },
+  {
+    "Product_Type": "Portable Calibration Furnace",
+    "OEM": "Additel",
+    "Model": "ADT875-155",
+    "Specs": {
+      "Temp_Range": "33°C to 660°C",
+      "Stability": "±0.005°C",
+      "Warmup_Time": "10 minutes",
+      "Certification": "ISO 9001, CE"
+    }
+  },
+  {
+    "Product_Type": "Muffle Furnace",
+    "OEM": "ThermoTech",
+    "Model": "MT-200",
+    "Specs": {
+      "Max_Temp": "1200°C",
+      "Chamber_Volume": "5L",
+      "Controller": "PID Digital",
+      "Certification": "ISO 9001"
+    }
+  },
+  {
+    "Product_Type": "Muffle Furnace",
+    "OEM": "LabHeat",
+    "Model": "LH-MF500",
+    "Specs": {
+      "Max_Temp": "1150°C",
+      "Chamber_Volume": "6L",
+      "Controller": "Analog PID",
+      "Certification": "ISO 9001"
+    }
+  },
+  {
+    "Product_Type": "Atomic Absorption Spectrophotometer",
+    "OEM": "Shimadzu",
+    "Model": "AA-6700",
+    "Specs": {
+      "Wavelength_Range": "185-900nm",
+      "Autosampler": "Optional",
+      "Detector": "Flame/Graphite Furnace",
+      "Certification": "ISO 9001"
+    }
+  },
+  {
+    "Product_Type": "Electronic Weigh Bridge",
+    "OEM": "WeighCorp",
+    "Model": "WB-50K",
+    "Specs": {
+      "Capacity": "50,000 kg",
+      "Platform_Size": "6m x 3m",
+      "Indicator": "Digital",
+      "Accuracy": "±20 kg"
+    }
+  },
+  {
+    "Product_Type": "Alumina Beam type Brick",
+    "OEM": "Refracta",
+    "Model": "RB-Alu-60",
+    "Specs": {
+      "Material": "High alumina (60%)",
+      "Size": "230x114x65 mm",
+      "Application": "Sinter Furnace lining"
+    }
+  },
+  {
+    "Product_Type": "Portable Gas Analyzer",
+    "OEM": "Testo",
+    "Model": "Testo-350",
+    "Specs": {
+      "Gases": "O2/CO/NOx",
+      "Display": "LCD",
+      "Battery": "8 hours"
+    }
+  },
+  {
+    "Product_Type": "Calibration Bath",
+    "OEM": "ThermoBath",
+    "Model": "TB-300",
+    "Specs": {
+      "Temp_Range": "-30°C to 150°C",
+      "Stability": "±0.02°C",
+      "Volume": "10L"
+    }
+  },
+  {
+    "Product_Type": "Tubular Furnace",
+    "OEM": "Nabertherm",
+    "Model": "RT-1000",
+    "Specs": {
+      "Max_Temp": "1000°C",
+      "Tube_Diameter": "80 mm",
+      "Heating_Zones": "3"
+    }
+  },
+  {
+    "Product_Type": "Salt Bath Pit Type Furnace",
+    "OEM": "HeatPro",
+    "Model": "HP-SBP-520",
+    "Specs": {
+      "Max_Temp": "1250°C",
+      "Capacity": "520 kg",
+      "Controller": "PLC + HMI",
+      "Power": "3 Phase"
+    }
+  },
+  {
+    "Product_Type": "Benchtop Thermocouple Calibration Furnace",
+    "OEM": "Omega",
+    "Model": "CTF-700",
+    "Specs": {
+      "Temp_Range": "50°C to 700°C",
+      "Stability": "±0.02°C"
+    }
+  },
+  {
+    "Product_Type": "Portable Calibration Furnace",
+    "OEM": "Kaye",
+    "Model": "K-660",
+    "Specs": {
+      "Temp_Range": "40°C to 660°C",
+      "Stability": "±0.01°C"
+    }
+  },
+  {
+    "Product_Type": "Muffle Furnace",
+    "OEM": "Furnax",
+    "Model": "FX-MF250",
+    "Specs": {
+      "Max_Temp": "1100°C",
+      "Chamber_Volume": "4L"
+    }
+  },
+  {
+    "Product_Type": "Laser Particle Size Analyzer",
+    "OEM": "Malvern",
+    "Model": "Mastersizer-3000",
+    "Specs": {
+      "Range": "0.01 to 3500 µm",
+      "Repeatability": "±0.1%"
+    }
+  },
+  {
+    "Product_Type": "Humidity Chamber",
+    "OEM": "ClimaticWorks",
+    "Model": "HC-500",
+    "Specs": {
+      "Temp_Range": "-20°C to 150°C",
+      "Humidity": "10% - 98% RH"
+    }
+  },
+  {
+    "Product_Type": "Portable Calibration Furnace",
+    "OEM": "MiniTherm",
+    "Model": "MT-500P",
+    "Specs": {
+      "Temp_Range": "30°C to 500°C",
+      "Portability": "Hand-carry"
+    }
+  },
+  {
+    "Product_Type": "FPGA Development and Evaluation Board",
+    "OEM": "TechLogic Systems",
+    "Model": "TL-Z7000-Adv",
+    "Specs": {
+      "Processor": "Dual ARM Cortex-A9 MPCore",
+      "Memory": "1GB DDR3 (Soldered)",
+      "Logic_Cells": "350K",
+      "DSP_Slices": "900",
+      "MMCM": "8",
+      "Interfaces": "PCIe Gen2, HDMI, USB, Ethernet",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "Product_Type": "FPGA Development and Evaluation Board",
+    "OEM": "ElectroChip Solutions",
+    "Model": "EC-SoC-256K",
+    "Specs": {
+      "Processor": "Dual ARM Cortex-A9",
+      "Memory": "512MB DDR3",
+      "Logic_Cells": "275K",
+      "DSP_Slices": "920",
+      "MMCM": "10",
+      "Interfaces": "FMC, Pmod, Audio, VGA",
+      "Warranty": "3 Years"
+    }
+  },
+  {
+    "Product_Type": "FPGA Development and Evaluation Board",
+    "OEM": "Innovate FPGA",
+    "Model": "IF-Pro-Eval",
+    "Specs": {
+      "Processor": "Dual-Core ARM Cortex-A9",
+      "Memory": "1GB DDR3",
+      "Logic_Cells": "300K",
+      "DSP_Slices": "950",
+      "MMCM": "12",
+      "Interfaces": "Gigabit Ethernet, USB OTG",
+      "Warranty": "2 Years"
+    }
+  }
+]

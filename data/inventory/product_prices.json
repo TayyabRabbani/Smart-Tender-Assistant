@@ -1,0 +1,11 @@
+{
+  "ZC706": 320000,
+  "ZC702": 180000,
+  "ZedBoard": 85000,
+  "UltraZed-EG TE0820": 240000,
+  "DE10-Nano": 35000,
+  "KC705": 290000,
+  "default_FPGA Development and Evaluation Board": 250000,
+  "default_FPGA Evaluation Board": 250000,
+  "default_FPGA System-on-Module Kit": 60000
+}
