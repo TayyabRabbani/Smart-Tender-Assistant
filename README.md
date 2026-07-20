@@ -153,7 +153,3 @@ smart-tender-assistant/
   deterministic table parser so a throttled endpoint never blocks a run.
 
 ---
-
-## License
-
-Add a license of your choice (e.g. MIT) before publishing.
